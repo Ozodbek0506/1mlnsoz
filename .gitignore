@@ -1,0 +1,8 @@
+# Barcha fayllarni ignore qil, faqat quyida belgilangan'larni o'z olma
+*
+
+# Quyidagi fayllarni track qil
+!main.py
+!README.md
+!.gitignore
+!.git/
