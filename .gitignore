@@ -3,6 +3,7 @@
 
 # Quyidagi fayllarni track qil
 !*.py
+!*.txt
 !README.md
 !.gitignore
 !.git/
